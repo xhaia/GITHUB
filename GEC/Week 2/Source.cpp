@@ -17,5 +17,25 @@ int main()
 	std::cout << "Size of wchar_t: " << sizeof(wchar_t) << " bytes" << std::endl;
 
 
+	enum Month
+	{
+		January = 1,
+		FEBRUARY = 2,
+		MARCH = 3,
+		APRIL = 4,
+		MAY = 5,
+		JUNE = 6,
+		JULY = 7,
+		AUGUST = 8,
+		SEPTEMBER = 9,
+		OCTOBER = 10,
+		NOVEMBER = 11,
+		DECEMBER = 12
+	};
+
+	Month currentMonth = Month::OCTOBER;
+
+	std::cout << "Current month is: " << currentMonth << std::endl;
+
 	return 0;
 }
