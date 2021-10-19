@@ -19,9 +19,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 2 - Converting from Fa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week2 - Area of a circle", "..\Week2 - Area of a circle\Week2 - Area of a circle.vcxproj", "{5B5F17FB-7500-44A9-904F-676D3FDD74ED}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week  3 - Conditionals task 1", "..\Week  3 - Conditionals\Week  3 - Conditionals.vcxproj", "{51465DCA-5230-4155-81DF-347ED3B1F4BA}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 3 - Conditionals task 2", "..\Week 3 - Conditionals task 2\Week 3 - Conditionals task 2.vcxproj", "{73EC86B3-F970-4CE1-85A1-867E10AC8958}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week  3 - Conditionals", "..\Week  3 - Conditionals\Week  3 - Conditionals.vcxproj", "{51465DCA-5230-4155-81DF-347ED3B1F4BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -103,14 +101,6 @@ Global
 		{51465DCA-5230-4155-81DF-347ED3B1F4BA}.Release|x64.Build.0 = Release|x64
 		{51465DCA-5230-4155-81DF-347ED3B1F4BA}.Release|x86.ActiveCfg = Release|Win32
 		{51465DCA-5230-4155-81DF-347ED3B1F4BA}.Release|x86.Build.0 = Release|Win32
-		{73EC86B3-F970-4CE1-85A1-867E10AC8958}.Debug|x64.ActiveCfg = Debug|x64
-		{73EC86B3-F970-4CE1-85A1-867E10AC8958}.Debug|x64.Build.0 = Debug|x64
-		{73EC86B3-F970-4CE1-85A1-867E10AC8958}.Debug|x86.ActiveCfg = Debug|Win32
-		{73EC86B3-F970-4CE1-85A1-867E10AC8958}.Debug|x86.Build.0 = Debug|Win32
-		{73EC86B3-F970-4CE1-85A1-867E10AC8958}.Release|x64.ActiveCfg = Release|x64
-		{73EC86B3-F970-4CE1-85A1-867E10AC8958}.Release|x64.Build.0 = Release|x64
-		{73EC86B3-F970-4CE1-85A1-867E10AC8958}.Release|x86.ActiveCfg = Release|Win32
-		{73EC86B3-F970-4CE1-85A1-867E10AC8958}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
