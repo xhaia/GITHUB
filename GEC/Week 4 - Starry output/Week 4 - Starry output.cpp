@@ -1,14 +1,13 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main()
 {
-	int N;
-	int Lines = 0;
-
 	for (;;)
 	{
+		int N;
+		int Lines = 0;
+
 		cout << "Enter a number between 1 and 10! \n" << endl;
 		cin >> N;
 
@@ -20,7 +19,7 @@ int main()
 		do
 		{
 			string star(Lines + 1, '*');
-			cout << "" << star << endl;
+			cout << "\n" << star << endl;
 			Lines = Lines + 1;
 		} while (Lines != N);
 		
