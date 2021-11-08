@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week 5 - Smallest number", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 5 - Odds and Evens", "..\Week 5 - Odds and Evens\Week 5 - Odds and Evens.vcxproj", "{EB9ED352-6F1E-46EF-9E17-B07F51E99D7E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 5 - Simple Text battle", "..\Week 5 - Simple Text battle\Week 5 - Simple Text battle.vcxproj", "{0EB2BBDE-589F-4EC8-BE78-D806E9A32764}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{EB9ED352-6F1E-46EF-9E17-B07F51E99D7E}.Release|x64.Build.0 = Release|x64
 		{EB9ED352-6F1E-46EF-9E17-B07F51E99D7E}.Release|x86.ActiveCfg = Release|Win32
 		{EB9ED352-6F1E-46EF-9E17-B07F51E99D7E}.Release|x86.Build.0 = Release|Win32
+		{0EB2BBDE-589F-4EC8-BE78-D806E9A32764}.Debug|x64.ActiveCfg = Debug|x64
+		{0EB2BBDE-589F-4EC8-BE78-D806E9A32764}.Debug|x64.Build.0 = Debug|x64
+		{0EB2BBDE-589F-4EC8-BE78-D806E9A32764}.Debug|x86.ActiveCfg = Debug|Win32
+		{0EB2BBDE-589F-4EC8-BE78-D806E9A32764}.Debug|x86.Build.0 = Debug|Win32
+		{0EB2BBDE-589F-4EC8-BE78-D806E9A32764}.Release|x64.ActiveCfg = Release|x64
+		{0EB2BBDE-589F-4EC8-BE78-D806E9A32764}.Release|x64.Build.0 = Release|x64
+		{0EB2BBDE-589F-4EC8-BE78-D806E9A32764}.Release|x86.ActiveCfg = Release|Win32
+		{0EB2BBDE-589F-4EC8-BE78-D806E9A32764}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
