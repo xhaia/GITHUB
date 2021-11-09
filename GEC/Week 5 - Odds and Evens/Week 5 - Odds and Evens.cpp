@@ -28,7 +28,7 @@ int main()
     if (iseven)
     {
         cout << "The number is even" << endl;
-        evennum = Num1;
+        evennum = evennum + 1;
         eventotal = eventotal + evennum;
     }
     else

@@ -22,6 +22,25 @@ int main()
 			cout << "\n" << star << endl;
 			Lines = Lines + 1;
 		} while (Lines != N);
-		
+
+		char again;
+
+		cout << "Would you like to play again? y or n? \n" << endl;
+		cin >> again;
+
+		if (again == 'y')
+		{
+			cout << "\n" << endl;
+		}
+		else if (again == 'n')
+		{
+			cout << "Goodbye!" << endl;
+			break;
+		}
+		else
+		{
+			cout << "Goodbye!" << endl;
+			break;
+		}
 	}
 }
