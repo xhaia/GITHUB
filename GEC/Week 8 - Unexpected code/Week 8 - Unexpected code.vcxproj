@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5b5f17fb-7500-44a9-904f-676d3fdd74ed}</ProjectGuid>
-    <RootNamespace>Week2Areaofacircle</RootNamespace>
+    <ProjectGuid>{3e8daeef-6859-4f6d-ba8c-ed6268aa7cac}</ProjectGuid>
+    <RootNamespace>Week8Unexpectedcode</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Week 2 - Area of a circle</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Week2 - Area of a circle.cpp" />
+    <ClCompile Include="Week 8 - Unexpected code.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -24,7 +24,7 @@
     <ProjectGuid>{51465dca-5230-4155-81df-347ed3b1f4ba}</ProjectGuid>
     <RootNamespace>Week3Conditionals</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Week  3 - Conditionals task 1</ProjectName>
+    <ProjectName>Week 3 - Conditionals task 1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

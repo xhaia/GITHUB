@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week_1 - Hello world", "GEC_Semester_1.vcxproj", "{FCBA2EB0-A839-4D64-ACE9-121B98D853EC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 1 - Hello world", "GEC_Semester_1.vcxproj", "{FCBA2EB0-A839-4D64-ACE9-121B98D853EC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 2 - DatatypeSize", "..\Week 2\Week 2.vcxproj", "{2A42735F-71C7-4E8D-BCBD-6F4FA883052C}"
 EndProject
@@ -17,7 +17,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 2 - Area of a rectangl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 2 - Converting from Fahrenheit to Celsius", "..\Week 2 - Converting from Fahrenheit to Celsius\Week 2 - Converting from Fahrenheit to Celsius.vcxproj", "{1AF0ECDC-E6D9-47A8-AABD-25F18B8C8005}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week2 - Area of a circle", "..\Week2 - Area of a circle\Week2 - Area of a circle.vcxproj", "{5B5F17FB-7500-44A9-904F-676D3FDD74ED}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 2 - Area of a circle", "..\Week2 - Area of a circle\Week2 - Area of a circle.vcxproj", "{5B5F17FB-7500-44A9-904F-676D3FDD74ED}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 3 - conditions 2", "..\Week 3 - conditions 2\Week 3 - conditions 2.vcxproj", "{63BD9693-86FD-42B1-B368-49A6C9B96732}"
 EndProject
@@ -25,7 +25,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 3 - Switch statement",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 3 - ShareOfSavings", "..\Week 3 - ShareOfSavings\Week 3 - ShareOfSavings.vcxproj", "{A063704F-2595-44FD-B20D-80A2C2DD270B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week  3 - Conditionals task 1", "..\Week  3 - Conditionals\Week  3 - Conditionals.vcxproj", "{51465DCA-5230-4155-81DF-347ED3B1F4BA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 3 - Conditionals task 1", "..\Week  3 - Conditionals\Week  3 - Conditionals.vcxproj", "{51465DCA-5230-4155-81DF-347ED3B1F4BA}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 3 - Share of haribo", "..\Week 3 - Share of haribo\Week 3 - Share of haribo.vcxproj", "{36896419-A383-4B3F-AC47-D3F7DD438749}"
 EndProject
@@ -66,6 +66,14 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 7 - Strings and vectors", "..\Week 7 - Strings and vectors\Week 7 - Strings and vectors.vcxproj", "{DE8D6BE7-12B6-4990-8158-A106AEEF28AB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 7 - Rock, Paper, Scissors", "..\Week 7 - Rock, Paper, Scissors\Week 7 - Rock, Paper, Scissors.vcxproj", "{57203E2A-8AF6-4608-A6CA-AD9CEE21B9D5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 8 - Broken code", "..\Week 8 - Broken code\Week 8 - Broken code.vcxproj", "{EF92BBD1-2668-4707-9AFF-9140D048089D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 8 - Unexpected code", "..\Week 8 - Unexpected code\Week 8 - Unexpected code.vcxproj", "{3E8DAEEF-6859-4F6D-BA8C-ED6268AA7CAC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 8 - Broken BMI", "..\Week 8 - Broken BMI\Week 8 - Broken BMI.vcxproj", "{41687121-C610-4ABA-9158-A907C0AE4A3F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 8 - Structs", "..\Week 8 - Structs\Week 8 - Structs.vcxproj", "{9702BE19-C646-43E8-8233-487E14CFFD3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -331,6 +339,38 @@ Global
 		{57203E2A-8AF6-4608-A6CA-AD9CEE21B9D5}.Release|x64.Build.0 = Release|x64
 		{57203E2A-8AF6-4608-A6CA-AD9CEE21B9D5}.Release|x86.ActiveCfg = Release|Win32
 		{57203E2A-8AF6-4608-A6CA-AD9CEE21B9D5}.Release|x86.Build.0 = Release|Win32
+		{EF92BBD1-2668-4707-9AFF-9140D048089D}.Debug|x64.ActiveCfg = Debug|x64
+		{EF92BBD1-2668-4707-9AFF-9140D048089D}.Debug|x64.Build.0 = Debug|x64
+		{EF92BBD1-2668-4707-9AFF-9140D048089D}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF92BBD1-2668-4707-9AFF-9140D048089D}.Debug|x86.Build.0 = Debug|Win32
+		{EF92BBD1-2668-4707-9AFF-9140D048089D}.Release|x64.ActiveCfg = Release|x64
+		{EF92BBD1-2668-4707-9AFF-9140D048089D}.Release|x64.Build.0 = Release|x64
+		{EF92BBD1-2668-4707-9AFF-9140D048089D}.Release|x86.ActiveCfg = Release|Win32
+		{EF92BBD1-2668-4707-9AFF-9140D048089D}.Release|x86.Build.0 = Release|Win32
+		{3E8DAEEF-6859-4F6D-BA8C-ED6268AA7CAC}.Debug|x64.ActiveCfg = Debug|x64
+		{3E8DAEEF-6859-4F6D-BA8C-ED6268AA7CAC}.Debug|x64.Build.0 = Debug|x64
+		{3E8DAEEF-6859-4F6D-BA8C-ED6268AA7CAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{3E8DAEEF-6859-4F6D-BA8C-ED6268AA7CAC}.Debug|x86.Build.0 = Debug|Win32
+		{3E8DAEEF-6859-4F6D-BA8C-ED6268AA7CAC}.Release|x64.ActiveCfg = Release|x64
+		{3E8DAEEF-6859-4F6D-BA8C-ED6268AA7CAC}.Release|x64.Build.0 = Release|x64
+		{3E8DAEEF-6859-4F6D-BA8C-ED6268AA7CAC}.Release|x86.ActiveCfg = Release|Win32
+		{3E8DAEEF-6859-4F6D-BA8C-ED6268AA7CAC}.Release|x86.Build.0 = Release|Win32
+		{41687121-C610-4ABA-9158-A907C0AE4A3F}.Debug|x64.ActiveCfg = Debug|x64
+		{41687121-C610-4ABA-9158-A907C0AE4A3F}.Debug|x64.Build.0 = Debug|x64
+		{41687121-C610-4ABA-9158-A907C0AE4A3F}.Debug|x86.ActiveCfg = Debug|Win32
+		{41687121-C610-4ABA-9158-A907C0AE4A3F}.Debug|x86.Build.0 = Debug|Win32
+		{41687121-C610-4ABA-9158-A907C0AE4A3F}.Release|x64.ActiveCfg = Release|x64
+		{41687121-C610-4ABA-9158-A907C0AE4A3F}.Release|x64.Build.0 = Release|x64
+		{41687121-C610-4ABA-9158-A907C0AE4A3F}.Release|x86.ActiveCfg = Release|Win32
+		{41687121-C610-4ABA-9158-A907C0AE4A3F}.Release|x86.Build.0 = Release|Win32
+		{9702BE19-C646-43E8-8233-487E14CFFD3A}.Debug|x64.ActiveCfg = Debug|x64
+		{9702BE19-C646-43E8-8233-487E14CFFD3A}.Debug|x64.Build.0 = Debug|x64
+		{9702BE19-C646-43E8-8233-487E14CFFD3A}.Debug|x86.ActiveCfg = Debug|Win32
+		{9702BE19-C646-43E8-8233-487E14CFFD3A}.Debug|x86.Build.0 = Debug|Win32
+		{9702BE19-C646-43E8-8233-487E14CFFD3A}.Release|x64.ActiveCfg = Release|x64
+		{9702BE19-C646-43E8-8233-487E14CFFD3A}.Release|x64.Build.0 = Release|x64
+		{9702BE19-C646-43E8-8233-487E14CFFD3A}.Release|x86.ActiveCfg = Release|Win32
+		{9702BE19-C646-43E8-8233-487E14CFFD3A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
