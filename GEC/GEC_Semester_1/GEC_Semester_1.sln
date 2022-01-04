@@ -75,6 +75,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 8 - Broken BMI", "..\W
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 8 - Structs", "..\Week 8 - Structs\Week 8 - Structs.vcxproj", "{9702BE19-C646-43E8-8233-487E14CFFD3A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 9 - Replacing commas with spaces", "..\Week 9 - Replacing commas with spaces\Week 9 - Replacing commas with spaces.vcxproj", "{705C4149-7B72-4B08-9381-7AC79AE21EFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -371,6 +373,14 @@ Global
 		{9702BE19-C646-43E8-8233-487E14CFFD3A}.Release|x64.Build.0 = Release|x64
 		{9702BE19-C646-43E8-8233-487E14CFFD3A}.Release|x86.ActiveCfg = Release|Win32
 		{9702BE19-C646-43E8-8233-487E14CFFD3A}.Release|x86.Build.0 = Release|Win32
+		{705C4149-7B72-4B08-9381-7AC79AE21EFE}.Debug|x64.ActiveCfg = Debug|x64
+		{705C4149-7B72-4B08-9381-7AC79AE21EFE}.Debug|x64.Build.0 = Debug|x64
+		{705C4149-7B72-4B08-9381-7AC79AE21EFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{705C4149-7B72-4B08-9381-7AC79AE21EFE}.Debug|x86.Build.0 = Debug|Win32
+		{705C4149-7B72-4B08-9381-7AC79AE21EFE}.Release|x64.ActiveCfg = Release|x64
+		{705C4149-7B72-4B08-9381-7AC79AE21EFE}.Release|x64.Build.0 = Release|x64
+		{705C4149-7B72-4B08-9381-7AC79AE21EFE}.Release|x86.ActiveCfg = Release|Win32
+		{705C4149-7B72-4B08-9381-7AC79AE21EFE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
