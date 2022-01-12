@@ -18,7 +18,7 @@ int main()
     comma2blank(textToChange);
 
     cout << "\nAfter change: " << endl;
-    cout << comma2blank << endl;
+    cout << &textToChange << endl;
 
     return 0;
 }
