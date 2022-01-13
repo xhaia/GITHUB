@@ -7,13 +7,10 @@ using namespace std;
 
 int main()
 {
-	struct scores {
-		string name[50];
-		int score[60];
-	}details;
-
 	string Name;
 	int Score;
+
+	int details[2][10] = { {Name,Score} };
 
 	int count = 0;
 	int i, j, hold;
